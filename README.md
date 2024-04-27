@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karthikeyan-10
-- 👀 I’m interested in working with Data
-- 🌱 I’m currently learning Data Engineering | ML
-- 💞️ I’m looking to collaborate on Distributed processing | Algorithms | Big Data | Cloud
+- 👋 Hi, I’m Karthik - Data Engineer 
+- 👀 I’m interested in Engineering Data to glean meaningful insights
+- 🌱 Passionate about educating machines - ML/AI
+- 💞️ I’m looking to collaborate on Distributed processing | Algorithms | Big Data | Cloud | ML/AI | LLMs
 
 <!---
 karthikeyan-10/karthikeyan-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
